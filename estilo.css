@@ -1,0 +1,23 @@
+body{
+    background-color: #d98324ff;
+}
+h1, h2{
+    font-family: 'Caveat', sans-serif;
+}
+
+p{
+    font-family:sans-serif;
+}
+
+ul{
+    line-height: 20px;
+    line-height: 20px;
+    font-weight: 700; 
+}
+
+#hasTag{
+    font-family: 'Caveat', sans-serif;
+}
+.imagem-arredondada{
+    border-radius: 50%;
+}
