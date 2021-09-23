@@ -1,3 +1,11 @@
 # Lucas-Fer.github.io
-Meu portfólio Web contendo vários proojetos realizados durante minha carreira.
-A pasta projetos conterá uma sessão onde pode ser aberto o link do respectivo projeto!
+Meu portfólio Web contendo vários proojetos realizados durante meus aprendizados e minha carreira.
+
+
+# 1 - Projeto: Pixel Arts:
+- [ ✔️]_[Projeto - Arte com Pixels](https://lucas-fer.github.io/pixel-arts-project/)_
+- _[Repositório do projeto com algumas informações sobre. ](https://github.com/Lucas-Fer/pixel-arts-project)_
+
+# 2 - Projeto: ToDoList:
+- [ ✔️]_[Projeto - Lista de tarefas](https://lucas-fer.github.io/ToDo-list/)_
+- _[Repositório do projeto com algumas informações sobre.](https://github.com/Lucas-Fer/ToDo-list)_
