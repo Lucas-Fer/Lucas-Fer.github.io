@@ -1,6 +1,6 @@
 # Lucas-Fer.github.io
 Meu portfólio Web contendo vários proojetos realizados durante meus aprendizados e minha carreira.
-
+O página do portfólio em si ainda está em andamento.
 
 # 1 - Projeto: Pixel Arts:
 - [ ✔️]_[Projeto - Arte com Pixels](https://lucas-fer.github.io/pixel-arts-project/)_
