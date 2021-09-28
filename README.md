@@ -17,3 +17,7 @@ O página do portfólio em si ainda está em andamento.
 # 4 - Projeto: Color Guess:
 - [ ✔️]_[Projeto - Advinhe a Cor](https://lucas-fer.github.io/color-guess-project/)_
 - _[Repositório do projeto com algumas informações sobre.](https://github.com/Lucas-Fer/color-guess-project)_
+
+# 5 - Projeto: TrybeWarts:
+- [ ✔️]_[Projeto - Formulário para entrar na TrybeWarts](https://lucas-fer.github.io/project-trybewarts/)_
+- _[Repositório do projeto com algumas informações sobre.](https://github.com/Lucas-Fer/project-trybewarts/tree/main)_
