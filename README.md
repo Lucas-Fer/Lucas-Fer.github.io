@@ -23,5 +23,5 @@ O página do portfólio em si ainda está em andamento.
 - _[Repositório do projeto com algumas informações sobre.](https://github.com/Lucas-Fer/project-trybewarts/tree/main)_
 
 # 6 - Projeto: Shopping Cart:
-- [ ✔️]_[Projeto - Carrinho de comprar, utilizando API do Mercado Livre](lucas-fer.github.io/shopping-cart/)_
+- [ ✔️]_[Projeto - Carrinho de compras, utilizando API do Mercado Livre](lucas-fer.github.io/shopping-cart/)_
 - _[Repositório do projeto com algumas informações sobre.](https://github.com/Lucas-Fer/shopping-cart)_
