@@ -21,3 +21,7 @@ O página do portfólio em si ainda está em andamento.
 # 5 - Projeto: TrybeWarts:
 - [ ✔️]_[Projeto - Formulário para entrar na TrybeWarts](https://lucas-fer.github.io/project-trybewarts/)_
 - _[Repositório do projeto com algumas informações sobre.](https://github.com/Lucas-Fer/project-trybewarts/tree/main)_
+
+# 6 - Projeto: Shopping Cart:
+- [ ✔️]_[Projeto - Formulário para entrar na TrybeWarts](lucas-fer.github.io/shopping-cart/)_
+- _[Repositório do projeto com algumas informações sobre.](https://github.com/Lucas-Fer/shopping-cart)_
