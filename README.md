@@ -1,5 +1,5 @@
 # Lucas-Fer.github.io
-Meu portfólio Web contendo vários proojetos realizados durante meus aprendizados e minha carreira.
+Meu portfólio (em andamento) Web contendo vários projetos realizados durante meus aprendizados e minha carreira.
 O página do portfólio em si ainda está em andamento.
 
 # Projetos realizados durante os aprendizados de HTML/CSS
@@ -28,9 +28,15 @@ O página do portfólio em si ainda está em andamento.
 - [ ✔️]_[Projeto - Carrinho de compras, utilizando API do Mercado Livre](https://lucas-fer.github.io/shopping-cart/)_
 - _[Repositório do projeto com algumas informações sobre.](https://github.com/Lucas-Fer/shopping-cart)_
 
-# Projetos realizados duranteos aprendizados em Front-end (REACTJS)
+# Projetos realizados durante os aprendizados em Front-end (REACTJS)
 
 ## 1 - Projeto: Super Trunfo:
 
 - [ ✔️]_[Projeto - Tryunfo](https://lucas-fer.github.io/trunfo-game-project/)_
 - _[Repositório do projeto com algumas informações sobre. ](https://github.com/Lucas-Fer/trunfo-game-project)_
+
+## 2 - Projeto: TrybeTunes:
+
+- [ ✔️]_[Projeto - TrybeTunes](https://lucas-fer.github.io/trybetunes-project/)_
+- _[Repositório do projeto com algumas informações sobre. ](https://github.com/Lucas-Fer/trybetunes-project)_
+
